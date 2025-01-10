@@ -8,7 +8,7 @@ Install [Go](https://go.dev/doc/install) and [git](https://git-scm.com/downloads
 
 ```bash
 $ git clone https://github.com/PretendoNetwork/splatoon
-$ cd friends
+$ cd splatoon
 ```
 
 ### Compiling and running using `docker` (Preferred)
